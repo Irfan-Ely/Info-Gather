@@ -1,5 +1,5 @@
 import subprocess
-
+import sys
 def subdomain_enumeration(target):
     command = f"sublist3r -d {target} -o subdomains.txt"
     subdomain_result=subprocess.run(command, shell=True)
