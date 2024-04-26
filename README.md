@@ -1,7 +1,10 @@
 # Info-Gather
 Information Gathering Tool Kit
-# Extending the Tool
+# Workflow
+![image](https://github.com/Irfan-Ely/Info-Gather/assets/118766951/b53bce11-15e7-4eab-ade8-81c30e5cd1bc)
 
+
+# Extending the Tool
 You might want to extend this tool by adding:
   - Automated vulnerability scans based on open ports.
   - Integration with APIs like Shodan or Censys.
