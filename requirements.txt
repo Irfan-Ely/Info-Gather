@@ -1,0 +1,4 @@
+dig
+nikto
+nmap
+sublist3r
